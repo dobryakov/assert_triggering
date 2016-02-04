@@ -22,7 +22,7 @@ class AssertTriggeringTest < ActiveSupport::TestCase
     assert_triggered event_name
     assert_not_triggered 'some.strange.event'
 
-    # event is not triggered twice, so
+    # event should not triggered twice, so
     assert_not_triggered event_name
 
   end
