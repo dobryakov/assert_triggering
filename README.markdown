@@ -1,5 +1,7 @@
 = AssertTriggering
 
+![](http://ruby-gem-downloads-badge.herokuapp.com/assert_triggering?type=total)
+
 Usage
 -------------------
 
