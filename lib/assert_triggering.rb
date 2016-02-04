@@ -1,0 +1,2 @@
+module AssertTriggering
+end
